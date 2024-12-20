@@ -9,4 +9,8 @@ link library :
 - https://www.npmjs.com/package/nodemon
 
 steps:
-- 
+- create project :
+  npm init 
+- install library :
+  npm i whatsapp-web.js qrcode-terminal @google/generative-ai nodemon
+-generate Gemini API Key from https://ai.google.dev/
